@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>MySQL Database Project</b>
-  - [WGU MySQL project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [WGU MySQL project](https://github.com/tyler8367/C170-SQL/blob/main/C170-project.sql)
 
 <h2> 🤳 Connect with me:</h2>
 
