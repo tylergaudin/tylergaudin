@@ -4,6 +4,8 @@
 
 - <b>MySQL Database Project</b>
   - [WGU MySQL project](https://github.com/tyler8367/C170-SQL/blob/main/C170-project.sql)
+- <b>PostgreSQL Database Project</b>
+  - [WGU PostgreSQL DVD Rental project](https://github.com/tyler8367/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
 
 <h2> 🤳 Connect with me:</h2>
 
