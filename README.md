@@ -7,11 +7,11 @@
 - <b>C Substitute encryption Project</b>
   - [CS50 Substitute project](https://github.com/tyler8367/substitution/blob/main/substitution.c)
 - <b>C Caesar Encryption Project</b>
-  - [CS50 Caesar encryption project](https://github.com/tyler8367/CS50-Caesar/blob/main/caesar.c)
-- <b>C Credit Card Project</b>
-  - [CS50 Credit card verify project](https://github.com/tyler8367/credit/blob/main/credit.c)
+  - [CS50 Caesar project](https://github.com/tyler8367/CS50-Caesar/blob/main/caesar.c)
+- <b>C Credit Card Verify Project</b>
+  - [CS50 Credit card project](https://github.com/tyler8367/credit/blob/main/credit.c)
 - <b>C Cash Change Project</b>
-  - [CS50 Cash change maker project](https://github.com/tyler8367/Cash/blob/main/cash.c)
+  - [CS50 Cash project](https://github.com/tyler8367/Cash/blob/main/cash.c)
 - <b>C Mario Projects</b>
   - [CS50 Mario-more project](https://github.com/tyler8367/mario/blob/main/mario-more.c)
   - [CS50 Mario-less project](https://github.com/tyler8367/mario/blob/main/mario-less.c)
