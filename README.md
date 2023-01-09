@@ -8,7 +8,8 @@
   - [CS50 Caesar encryption project](https://github.com/tyler8367/CS50-Caesar/blob/main/caesar.c)
 - <b>C Cash Change Project</b>
   - [CS50 Cash change maker project](https://github.com/tyler8367/Cash/blob/main/cash.c)
-   
+https://github.com/tyler8367/credit/blob/main/credit.c
+  
 <h3>💽 SQL Projects:</h3>
 
 - <b>PostgreSQL Database Project</b>
