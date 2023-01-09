@@ -15,6 +15,7 @@ https://github.com/tyler8367/credit/blob/main/credit.c
   https://github.com/tyler8367/readability/blob/main/readability.c
   https://github.com/tyler8367/scrabble/blob/main/scrabble.c
   https://github.com/tyler8367/substitution/blob/main/substitution.c
+  https://github.com/tyler8367/uppercase/blob/main/uppercase.c
   
 <h3>💽 SQL Projects:</h3>
 
