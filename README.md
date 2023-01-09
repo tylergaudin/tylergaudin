@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>📺 C Projects:</h3>
-
+  
 - <b>C Caesar Encryption Project</b>
   - [CS50 Caesar encryption project](https://github.com/tyler8367/CS50-Caesar/blob/main/caesar.c)
+- <b>C Cash Change Project</b>
+  - [CS50 Cash change maker project](https://github.com/tyler8367/Cash/blob/main/cash.c)
    
 <h3>💽 SQL Projects:</h3>
 
