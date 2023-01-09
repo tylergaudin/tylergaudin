@@ -9,6 +9,7 @@
 - <b>C Cash Change Project</b>
   - [CS50 Cash change maker project](https://github.com/tyler8367/Cash/blob/main/cash.c)
 https://github.com/tyler8367/credit/blob/main/credit.c
+  https://github.com/tyler8367/hello/blob/main/hello.c
   
 <h3>💽 SQL Projects:</h3>
 
