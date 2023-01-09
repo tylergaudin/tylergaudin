@@ -1,8 +1,12 @@
 <h1>Hey y'all, I'm Tyler! <br/><a href="https://github.com/tyler8367">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h3>📺 C Projects:</h3>
+
+
    
-<h3>🗄️ SQL Projects:</h3>
+<h3>💽 SQL Projects:</h3>
 
 - <b>PostgreSQL Database Project</b>
   - [WGU PostgreSQL DVD Rental project](https://github.com/tyler8367/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
