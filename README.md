@@ -12,6 +12,7 @@ https://github.com/tyler8367/credit/blob/main/credit.c
   https://github.com/tyler8367/hello/blob/main/hello.c
   https://github.com/tyler8367/mario/blob/main/mario-less.c
   https://github.com/tyler8367/mario/blob/main/mario-more.c
+  https://github.com/tyler8367/readability/blob/main/readability.c
   
 <h3>💽 SQL Projects:</h3>
 
