@@ -1,4 +1,4 @@
-<h1>Hey y'all, I'm Tyler! <br/><a href="https://github.com/tyler8367">Software Developer</a>
+<h1>Hey y'all, I'm Tyler! <br/><a href="https://github.com/tyler8367">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
