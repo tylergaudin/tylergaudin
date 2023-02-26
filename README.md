@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h3>💻 C++ Project:</h3>
+  
+ - <b>C Student Roster Project</b>
+   - [WGU Roster project](https://github.com/tyler8367/substitution/blob/main/substitution.c)
+
 <h3>📺 C Projects:</h3>
   
 - <b>C Substitute encryption Project</b>
