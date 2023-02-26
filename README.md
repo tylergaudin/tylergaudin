@@ -5,36 +5,36 @@
 <h3>💻 C++ Project:</h3>
   
  - <b>C Student Roster Project</b>
-   - [WGU Roster project](https://github.com/tyler8367/substitution/blob/main/substitution.c)
+   - [WGU Roster project](https://github.com/tylergaudin/student-roster/blob/main/main.cpp)
 
 <h3>📺 C Projects:</h3>
   
 - <b>C Substitute encryption Project</b>
-  - [CS50 Substitute project](https://github.com/tyler8367/substitution/blob/main/substitution.c)
+  - [CS50 Substitute project](https://github.com/tylergaudin/substitution/blob/main/substitution.c)
 - <b>C Caesar Encryption Project</b>
-  - [CS50 Caesar project](https://github.com/tyler8367/CS50-Caesar/blob/main/caesar.c)
+  - [CS50 Caesar project](https://github.com/tylergaudin/CS50-Caesar/blob/main/caesar.c)
 - <b>C Credit Card Verify Project</b>
-  - [CS50 Credit card project](https://github.com/tyler8367/credit/blob/main/credit.c)
+  - [CS50 Credit card project](https://github.com/tylergaudin/credit/blob/main/credit.c)
 - <b>C Cash Change Project</b>
-  - [CS50 Cash project](https://github.com/tyler8367/Cash/blob/main/cash.c)
+  - [CS50 Cash project](https://github.com/tylergaudin/Cash/blob/main/cash.c)
 - <b>C Mario Projects</b>
-  - [CS50 Mario-more project](https://github.com/tyler8367/mario/blob/main/mario-more.c)
-  - [CS50 Mario-less project](https://github.com/tyler8367/mario/blob/main/mario-less.c)
+  - [CS50 Mario-more project](https://github.com/tylergaudin/mario/blob/main/mario-more.c)
+  - [CS50 Mario-less project](https://github.com/tylergaudin/mario/blob/main/mario-less.c)
 - <b>C Readability Project</b>
-  - [CS50 Readability project](https://github.com/tyler8367/readability/blob/main/readability.c)
+  - [CS50 Readability project](https://github.com/tylergaudin/readability/blob/main/readability.c)
 - <b>C Scrabble Points Project</b>
-  - [CS50 Scrabble project](https://github.com/tyler8367/scrabble/blob/main/scrabble.c)
+  - [CS50 Scrabble project](https://github.com/tylergaudin/scrabble/blob/main/scrabble.c)
 - <b>C Uppercase Project</b>
-  - [CS50 Uppercase project](https://github.com/tyler8367/uppercase/blob/main/uppercase.c)
+  - [CS50 Uppercase project](https://github.com/tylergaudin/uppercase/blob/main/uppercase.c)
 - <b>C Hello Project</b>
-  - [CS50 Hello project](https://github.com/tyler8367/hello/blob/main/hello.c)
+  - [CS50 Hello project](https://github.com/tylergaudin/hello/blob/main/hello.c)
   
 <h3>💽 SQL Projects:</h3>
 
 - <b>PostgreSQL Database Project</b>
-  - [WGU PostgreSQL DVD Rental project](https://github.com/tyler8367/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
+  - [WGU PostgreSQL DVD Rental project](https://github.com/tylergaudin/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
 - <b>MySQL Database Project</b>
-  - [WGU MySQL project](https://github.com/tyler8367/C170-SQL/blob/main/C170-project.sql)
+  - [WGU MySQL project](https://github.com/tylergaudin/C170-SQL/blob/main/C170-project.sql)
 
 <h2> 🤳 Connect with me:</h2>
 
