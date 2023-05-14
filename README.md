@@ -5,7 +5,9 @@
 <h3>💻 Java Fullstack Project:</h3>
   
  - <b>Appointment Scheduler Project</b>
-   - [Fullstack Java project](https://github.com/tylergaudin/SchedulingApplication)
+   - [Fullstack Java project with MySQL](https://github.com/tylergaudin/scheduler)
+ - <b>Shop Inventory Project</b>
+   - [Fullstack Java project](https://github.com/tylergaudin/Inventory)
   
 <h3>💻 C++ Project:</h3>
   
