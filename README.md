@@ -2,10 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h3>💻 Java Fullstack Project:</h3>
+  
+ - <b>Appointment Scheduler Project</b>
+   - [Fullstack Java project](https://github.com/tylergaudin/SchedulingApplication)
+  
 <h3>💻 C++ Project:</h3>
   
  - <b>C Student Roster Project</b>
-   - [WGU Roster project](https://github.com/tylergaudin/student-roster/blob/main/main.cpp)
+   - [Roster project](https://github.com/tylergaudin/student-roster/blob/main/main.cpp)
 
 <h3>📺 C Projects:</h3>
   
@@ -32,9 +37,9 @@
 <h3>💽 SQL Projects:</h3>
 
 - <b>PostgreSQL Database Project</b>
-  - [WGU PostgreSQL DVD Rental project](https://github.com/tylergaudin/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
+  - [PostgreSQL DVD Rental project](https://github.com/tylergaudin/DVD-Rental-SQL-Project/blob/main/DVDrental.sql)
 - <b>MySQL Database Project</b>
-  - [WGU MySQL project](https://github.com/tylergaudin/C170-SQL/blob/main/C170-project.sql)
+  - [MySQL project](https://github.com/tylergaudin/C170-SQL/blob/main/C170-project.sql)
 
 <h2> 🤳 Connect with me:</h2>
 
