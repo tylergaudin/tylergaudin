@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>💻 Java Fullstack Project:</h3>
-  - <b>Vacation Scheduler Mobile App</b>
+  
+ - <b>Vacation Scheduler Mobile App</b>
    - [Fullstack Java project with SQLite](https://github.com/tylergaudin/trip_wizard)
  - <b>Appointment Scheduler Project</b>
    - [Fullstack Java project with MySQL](https://github.com/tylergaudin/scheduler)
